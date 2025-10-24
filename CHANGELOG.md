@@ -6,7 +6,7 @@
 
 ### Changed
 
-* Bump lodash from 4.17.20 to 4.17.21 in /javascript. (#6)
+* Bump lodash from 4.17.20 to 4.17.21 in /javascript. ([#6][pull6])
 
 <!--------------------------------------------------------------------->
 
